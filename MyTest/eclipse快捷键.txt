@@ -1,0 +1,8 @@
+
+* 30.调出生成 getter/setter/构造器等结构： alt + shift + s
+
+1.Ctrl+shift+T 查看所有的jar包中的资源类
+
+2.ctrl+T 可以查看当前类的子实现类
+
+3.视图outline可以在不加载类的情况下查看类的成员变量和方法
