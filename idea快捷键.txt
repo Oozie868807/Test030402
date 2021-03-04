@@ -1,0 +1,27 @@
+
+1.光标自动下移动一行
+shift+enter
+
+2.构造新的结构
+Alt+ins
+
+3.选中多行
+shift+up/down
+
+4.选中的多行上下移动
+Alt+Shift+up/down
+
+5.向下复制一行
+Ctrl+D
+
+6.查看API后返回原来的代码
+Ctrl+Alt+方向左
+Ctrl+Alt+方向右
+
+7.快速生成构造器的方法
+alt+ins
+
+8对一个区域的代码整体操作(如try/catch/finally或者if等) 选中之后
+ctrl+alt+T
+
+
